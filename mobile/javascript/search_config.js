@@ -1,0 +1,1 @@
+﻿var textForPages = ["TLJ KELAS XII                                         CONTOH TEKNOLOGI YANG                       MENERAPKAN LAYANAN EKSTENSI DAN                              DIAL-PLAN SERVER SOFTSWTICH","","","","",""];
